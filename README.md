@@ -28,7 +28,7 @@
         <h1>Hello World!</h1>
     </div>
     <div class="content">
-        <p>Charn Isarachanpanich 651512056</p>
+        <p>Tanabordee Isuriyachart 651512081</p>
         <p>Give me Full Marks please</p>
     </div>
 </body>
